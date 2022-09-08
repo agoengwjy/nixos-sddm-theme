@@ -1,2 +1,2 @@
 # nixos-sddm-theme
-// Nix OS theme fork by Archcraft
+// Nix OS theme fork Archcraft
